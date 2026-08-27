@@ -1,4 +1,4 @@
-# 🔄 Update Libs  
+#  Update Libs  
 
 A simple yet powerful **Python utility** that helps you keep your environment up to date by automatically listing and upgrading all installed pip packages.  
 
@@ -6,15 +6,15 @@ A simple yet powerful **Python utility** that helps you keep your environment up
 
 ---
 
-## 📌 Features  
-- ✅ Lists all installed pip packages  
-- ✅ Saves them into `installed_packages.txt` for reference  
-- ✅ Automatically upgrades each package to the latest version  
-- ✅ Lightweight & easy to use  
+##  Features  
+-  Lists all installed pip packages  
+-  Saves them into `installed_packages.txt` for reference  
+-  Automatically upgrades each package to the latest version  
+-  Lightweight & easy to use  
 
 ---
 
-## 🚀 Getting Started  
+##  Getting Started  
 
 ### 1. Clone this repository  
 ```bash
@@ -40,19 +40,19 @@ python update_libs.py
 
 ---
 
-## 📝 Notes  
+##  Notes  
 - Run the script in an environment where you have permission to upgrade packages.  
 - To avoid breaking system-wide packages, it’s highly recommended to use a **virtual environment**.  
 
 ---
 
-## ⚠️ Disclaimer  
+##  Disclaimer  
 This script upgrades **all installed packages**. Some projects may experience compatibility issues after upgrading.  
 > Use at your own risk and always test your environment after updates.  
 
 ---
 
-## 🤝 Contributing  
+##  Contributing  
 Contributions are welcome! If you’d like to improve this script:  
 1. Fork the repository  
 2. Create a feature branch  
@@ -60,5 +60,5 @@ Contributions are welcome! If you’d like to improve this script:
 
 ---
 
-## 📜 License  
+##  License  
 This project is licensed under the **MIT License** – feel free to use and modify. 
